@@ -1,0 +1,19 @@
+.contain-modal {
+	background-color: rgba(63, 52, 52, 0.386);
+	height: 100%;
+	position: fixed;
+	top:0;
+	width: 100%;
+}
+.modal {
+	background-color: white;
+	bottom: auto;
+	font-weight: 600;
+	left: 50%;
+	margin-right: -50%;
+	padding: 1rem;
+	position: fixed;
+	right: auto;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
