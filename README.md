@@ -1,5 +1,20 @@
 ### This is one project of the course _"React: La guía completa"_ created by The Udemy's Professor: Juan de la Torre. The original project was wrote in js code, I rebuilt it in <a class="language--ts">typescript</a>
 
+| 	characteristics	|		Teacher	|		Mine	|
+| :-----------------|:----------|:--------|
+||						|					|
+| `npm	`			      |		✔️			|	✔️		 |
+| `Next` 			      |		v13.2.3  |	v13.2.3 	|
+| `React`		 		    |		v17.0.0	|	v18.2.0	|
+| `Javascript`			|		ES6			|	 ❌  	|
+| `Typescript`			|		❌			 | v4.9.3	|
+| `Prisma`			|		v4.11.0			 | v4.11.0		|
+| `Axios`			|		v1.3.4			 | v1.3.4		|
+| `useState`				|		✔️			|   ✔️	 |
+| `useEffect`				|		✔️		  |  	✔️   |
+| `useContext`			|		 	✔️	  |  	✔️   |
+| `tailwindcss`			|		✔️			|   ✔️   |
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
