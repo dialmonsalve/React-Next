@@ -1,3 +1,5 @@
+### This is one project of the course _"React: La guía completa"_ created by The Udemy's Professor: Juan de la Torre. The original project was wrote in js code, I rebuilt it in <a class="language--ts">typescript</a>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
